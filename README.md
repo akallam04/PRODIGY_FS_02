@@ -12,7 +12,20 @@ A full-stack MERN employee management platform that gives organizations a clean,
 
 ## Screenshots
 
-Screenshots coming soon.
+### Landing Page
+![Home](screenshots/home.png)
+
+### Employee List — Admin View
+![Admin Employee List](screenshots/employees-admin.png)
+
+### Add Employee Form
+![Add Employee Form](screenshots/add-form.png)
+
+### Admin Stats Dashboard
+![Stats Dashboard](screenshots/stats.png)
+
+### Employee List — Regular User View
+![User Employee List](screenshots/employees-user.png)
 
 <!--
 ![Home Page](./screenshots/home.png)
